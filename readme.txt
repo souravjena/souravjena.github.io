@@ -1,0 +1,1 @@
+#write { max-width: 1860px; margin: 0px auto; padding: 30px 30px 100px; }
