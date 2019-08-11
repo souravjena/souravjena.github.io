@@ -19,9 +19,9 @@ title                    : "Sourav Jena"
 title_separator          : "-"
 name                     : &name "Sourav Jena"
 description              : &description "Senior Project Technical Assistant, IIT Bombay"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://souravjena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "souravjena/souravjena.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 60
@@ -40,7 +40,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Sourav Jena"
   avatar           : "profile.png"
-  bio              : "Senior Project Technical Assistant, IIT Bombay"
+  bio              : "Senior Project Technical Assistant"
   location         : "Mumbai, India"
   employer         : "IIT Bombay"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +110,7 @@ author:
   instagram        : "souravjena_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/souravjena/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
