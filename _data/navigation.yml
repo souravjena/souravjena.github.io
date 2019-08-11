@@ -1,0 +1,38 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    url: /research/  
+    
+  - title: "Projects"
+    url: /projects/  
+
+  - title: "Tutorials"
+    url: /tutorials/   
+
+  - title: "Personal"
+    url: /personal/ 
+
+  - title: "Contact"
+    url: /contact/
+        
+  # - title: "Publications"
+  #   url: /publications/
+
+ 
+
+  # - title: "Students"
+  #   url: /students/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+
+    
+  # - title: "Guide"
+  #   url: /markdown/
