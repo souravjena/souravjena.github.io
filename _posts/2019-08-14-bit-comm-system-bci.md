@@ -1,11 +1,12 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Communication System for People with Neuromuscular Disease using Brain Computer Interface'
+date: 2019-08-14
+permalink: /posts/2019/08/bit-comm-system-bci/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Arduino
+  - AVR
+  - ESP32
+  - Embedded Systems
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
