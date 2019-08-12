@@ -42,17 +42,64 @@
 
 
 html {
-  font-size: 16px; // change to whatever
+  font-size: 18px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 10px; // change to whatever
+    font-size: 12px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 14px; // change to whatever
+    font-size: 16px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px; // change to whatever **page font**
+    font-size: 18px; // change to whatever **page font**
   }
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('#{$fa-font-path}/cmunrm.eot');
+  src: url('#{$fa-font-path}/cmunrm.eot?#iefix') format('embedded-opentype'),
+     url('#{$fa-font-path}/cmunrm.woff') format('woff'),
+     url('#{$fa-font-path}/cmunrm.ttf') format('truetype'),
+     url('#{$fa-font-path}/cmunrm.svg#cmunrm') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('#{$fa-font-path}/cmunbx.eot');
+  src: url('#{$fa-font-path}/cmunbx.eot?#iefix') format('embedded-opentype'),
+     url('#{$fa-font-path}/cmunbx.woff') format('woff'),
+     url('#{$fa-font-path}/cmunbx.ttf') format('truetype'),
+     url('#{$fa-font-path}/cmunbx.svg#cmunbx') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('#{$fa-font-path}/cmunti.eot');
+  src: url('#{$fa-font-path}/cmunti.eot?#iefix') format('embedded-opentype'),
+     url('#{$fa-font-path}/cmunti.woff') format('woff'),
+     url('#{$fa-font-path}/cmunti.ttf') format('truetype'),
+     url('#{$fa-font-path}/cmunti.svg#cmunti') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('#{$fa-font-path}/cmunbi.eot');
+  src: url('#{$fa-font-path}/cmunbi.eot?#iefix') format('embedded-opentype'),
+     url('#{$fa-font-path}/cmunbi.woff') format('woff'),
+     url('#{$fa-font-path}/cmunbi.ttf') format('truetype'),
+     url('#{$fa-font-path}/cmunbi.svg#cmunbi') format('svg');
+  font-weight: bold;
+  font-style: italic;
 }

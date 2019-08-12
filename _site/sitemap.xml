@@ -87,10 +87,16 @@
 <loc>http://localhost:4000/non-menu-page/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/notes/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page-archive/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/personal/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>

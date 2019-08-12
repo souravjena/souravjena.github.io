@@ -4,110 +4,82 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-# Table of Contents
 
-| <div style="width:290px">property</div> | description                           |
-| --------------------------------------- | ------------------------------------- |
-| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+<html>
+<head>
 
-| Name | Value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;            |
-| ------------------------------------------------------------ | ---------------- |
-| `Value-One`                                                  | Long explanation |
-| `Value-Two`                                                  | Long explanation |
-| `etc`                                                        | Long explanation |
+<style>
 
-| Name             | Value            |
-| ---------------- | ---------------- |
-| <img width=200/> | <img width=500/> |
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #808080;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
 
-## Ongoing Projects
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
 
-[link](https://www.google.co.in/){:target="_blank"}
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
-### IIT Bombay
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
 
-| #    | Project Title                                                | Domain                       |
-| ---- | ------------------------------------------------------------ | ---------------------------- |
-|<img width=200/>|<img width=500/>|
-| 1    | Smart Under Desk Hydroponic Lettuce Farm using Internet of Things | IoT                          |
-| 2    | Affordable Robotic Platform to teach basics of Embedded Systems and Robotics | Hardware, Firmware, Software |
-| 3    | eYRC Theme                                                   | Robotics                     |
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
 
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 
+<!-- ********************************* START *********************************  -->
 
-## Past Projects
+ <table style="width:100%">
 
-### IIT Bombay
+  <col width="130">
+  <col width="80">
 
-| #    | Project Title                                                | Domain |
-| ---- | ------------------------------------------------------------ | ------ |
-|<img width=200/>|<img width=500/>|
-| 1    | [FOTA on AVR using Custom Bootloader](#FOTA on AVR using Custom Bootloader) |        |
-| 2    | Custom ESP32 bootloader to boot multiple applications        |        |
-| 3    |                                                              |        |
-|      |                                                              |        |
-|      |                                                              |        |
-|      |                                                              |        |
-|      |                                                              |        |
-|      |                                                              |        |
-|      |                                                              |        |
+  <tr>
+    <td>
+    	<span><img src="bit-mesra.jpg" alt="" border=3 height=100 width=100></img></span>
+    	<span style="horizontal-align: middle;">Title of the project</span>
+	</td>
+    
+    <td>Smith</td>
+  </tr>
 
+  <tr>
+    <td>Eve</td>
+    
+    <td>Jackson</td>
+  </tr>
 
-
-### Council of Scientific and Industrial Research - National Institute of Oceanography
-
-| #    | Project Title | Domain            |
-| ---- | ------------- | ----------------- |
-| 1    |               | Embedded Software |
-| 2    |               |                   |
-| 3    |               |                   |
-
-
-
-### Numadic IoT
-
-| #    | Project Title                                      | Domain            |
-| ---- | -------------------------------------------------- | ----------------- |
-| 1    | [Push Pop Algorithm for NAND Flash devices]()      | Embedded Software |
-| 2    | [Nubot v2 - GPS Tracking Device]()                 | Embedded Software |
-| 3    | [Nubit v1 - Temperature Logger for Consignments]() | Embedded Software |
-| 4    | [Nubot ID - RFID Truck Immobilizers]()             | Embedded Software |
-| 5    | [Batch Firmware Generator]()                       | Python Scripting  |
-| 6    | [Smart Notification Engine]()                      | Data Analysis     |
-
-
-
-### IIT Kanpur
-
-| #    | Project Title                                                | Domain             |
-| ---- | ------------------------------------------------------------ | ------------------ |
-| 1    | [Retrofitment of CNC machines for Hybrid Layered Manufacturing]() | Hardware, Software |
+</table> 
 
 
+<!-- ********************************* END *********************************  -->
 
-### BIT Mesra
-
-| #    | Project Title                                              | Domain   |
-| ---- | ---------------------------------------------------------- | -------- |
-| 1    | Communication System for people with neuromuscular disease |          |
-| 2    | Portable Health Monitoring Device                          |          |
-| 3    | vYOU, Robotic Alter Ego                                    | Robotics |
-| 4    | Digital Dash Board for Formula Category Vehicle            |          |
-
-
-
-### Side Projects
-
-| #    | Project Title | Domain |
-| ---- | ------------- | ------ |
-| 1    |               |        |
-| 2    |               |        |
-| 3    |               |        |
-
-
-
-------
-
-
-
-### FOTA on AVR using Custom Bootloader
+</body>
+</html>

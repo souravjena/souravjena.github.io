@@ -28,9 +28,11 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;  /*$sans-serif;*/
-$header-font-family         : $sans-serif;  /*$sans-serif;*/
-$caption-font-family        : $serif;  /*$serif;*/
+$cmu-serif                  : Computer Modern Serif, serif;
+
+$global-font-family         : $cmu-serif;  /*$sans-serif;*/
+$header-font-family         : $cmu-serif;  /*$sans-serif;*/
+$caption-font-family        : $cmu-serif;  /*$serif;*/
 
 
 /* type scale */

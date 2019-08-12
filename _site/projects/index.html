@@ -85,6 +85,10 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+</script> 
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 
@@ -149,13 +153,7 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">CV</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/research/">Research</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/projects/">Projects</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/tutorials/">Tutorials</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/portfolio/">Portfolio</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/personal/">Personal</a></li>
@@ -253,323 +251,84 @@
     
       <h1 class="page__title">Projects</h1>
     
-    <h1 id="table-of-contents">Table of Contents</h1>
+    <html>
+<head>
 
-<table>
-  <thead>
-    <tr>
-      <th>&lt;div style="width:290px"&gt;property&lt;/div&gt;</th>
-      <th>description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">border-bottom-right-radius</code></td>
-      <td>Defines the shape of the bottom-right</td>
-    </tr>
-  </tbody>
-</table>
+<style>
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Value                                         </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">Value-One</code></td>
-      <td>Long explanation</td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Value-Two</code></td>
-      <td>Long explanation</td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">etc</code></td>
-      <td>Long explanation</td>
-    </tr>
-  </tbody>
-</table>
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #808080;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;img width=200/&gt;</td>
-      <td>&lt;img width=500/&gt;</td>
-    </tr>
-  </tbody>
-</table>
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
 
-<h2 id="ongoing-projects">Ongoing Projects</h2>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
-<p><a href="https://www.google.co.in/" target="_blank">link</a></p>
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
 
-<h3 id="iit-bombay">IIT Bombay</h3>
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;img width=200/&gt;</td>
-      <td>&lt;img width=500/&gt;</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>Smart Under Desk Hydroponic Lettuce Farm using Internet of Things</td>
-      <td>IoT</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Affordable Robotic Platform to teach basics of Embedded Systems and Robotics</td>
-      <td>Hardware, Firmware, Software</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>eYRC Theme</td>
-      <td>Robotics</td>
-    </tr>
-  </tbody>
-</table>
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 
-<h2 id="past-projects">Past Projects</h2>
+<!-- ********************************* START *********************************  -->
 
-<h3 id="iit-bombay-1">IIT Bombay</h3>
+ <table style="width:100%">
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;img width=200/&gt;</td>
-      <td>&lt;img width=500/&gt;</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td><a href="#FOTA on AVR using Custom Bootloader">FOTA on AVR using Custom Bootloader</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Custom ESP32 bootloader to boot multiple applications</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+  <col width="130" />
+  <col width="80" />
 
-<h3 id="council-of-scientific-and-industrial-research---national-institute-of-oceanography">Council of Scientific and Industrial Research - National Institute of Oceanography</h3>
+  <tr>
+    <td>
+    	<span>&lt;img src="bit-mesra.jpg" alt="" border=3 height=100 width=100&gt;&lt;/img&gt;</span>
+    	<span style="horizontal-align: middle;">Title of the project</span>
+	</td>
+    
+    <td>Smith</td>
+  </tr>
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td> </td>
-      <td>Embedded Software</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+  <tr>
+    <td>Eve</td>
+    
+    <td>Jackson</td>
+  </tr>
 
-<h3 id="numadic-iot">Numadic IoT</h3>
+</table> 
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td><a href="">Push Pop Algorithm for NAND Flash devices</a></td>
-      <td>Embedded Software</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><a href="">Nubot v2 - GPS Tracking Device</a></td>
-      <td>Embedded Software</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="">Nubit v1 - Temperature Logger for Consignments</a></td>
-      <td>Embedded Software</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="">Nubot ID - RFID Truck Immobilizers</a></td>
-      <td>Embedded Software</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><a href="">Batch Firmware Generator</a></td>
-      <td>Python Scripting</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td><a href="">Smart Notification Engine</a></td>
-      <td>Data Analysis</td>
-    </tr>
-  </tbody>
-</table>
 
-<h3 id="iit-kanpur">IIT Kanpur</h3>
+<!-- ********************************* END *********************************  -->
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td><a href="">Retrofitment of CNC machines for Hybrid Layered Manufacturing</a></td>
-      <td>Hardware, Software</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="bit-mesra">BIT Mesra</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Communication System for people with neuromuscular disease</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Portable Health Monitoring Device</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>vYOU, Robotic Alter Ego</td>
-      <td>Robotics</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Digital Dash Board for Formula Category Vehicle</td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="side-projects">Side Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Project Title</th>
-      <th>Domain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h3 id="fota-on-avr-using-custom-bootloader">FOTA on AVR using Custom Bootloader</h3>
+</body>
+</html>
 
   </div>
 </div>
