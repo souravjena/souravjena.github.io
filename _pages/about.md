@@ -112,9 +112,9 @@ Complete list of projects can be found [here](/projects/).
 
 |🏆 **SURGE (Summer Undergraduate Research Grant for Excellence) 2016, IIT Kanpur** <br/> Awarded to 0.0575% of 1600 applicants. [Certificate](https://drive.google.com/file/d/0B97KaJlgFNSPVXJtSUFoakgtaGs/view?usp=sharing){:target="_blank"}|
 |🏆 **Renesas GR-Kaede Design Contest 2015, Bengaluru** <br/>  Finalist (Top 20) among ~2000 abstracts. [Certificate](https://drive.google.com/file/d/0B97KaJlgFNSPbVB1UXl1bndrNW8/view?usp=sharing){:target="_blank"}|
-|🥉 **Wild Soccer, Techkriti 15, IIT Kanpur** <br/> Secured 3rd place among 50 teams. [Certificate](https://drive.google.com/file/d/1cvO9a9oV0y8HSgw3f9sog_1GdWMpHGRE/view?usp=sharing){:target="_blank"}|
-|🥈 **Aqua Soccer, Anwesha 2015, IIT Patna** <br/> Secured 2nd place among 16 teams.|
-|🥉 **Death Race, Anwesha 2015, IIT Patna** <br/> Secured 3rd place among 12 teams.|
+|🏆 **Wild Soccer, Techkriti 15, IIT Kanpur** <br/> Secured 3rd place among 50 teams. [Certificate](https://drive.google.com/file/d/1cvO9a9oV0y8HSgw3f9sog_1GdWMpHGRE/view?usp=sharing){:target="_blank"}|
+|🏆 **Aqua Soccer, Anwesha 2015, IIT Patna** <br/> Secured 2nd place among 16 teams.|
+|🏆 **Death Race, Anwesha 2015, IIT Patna** <br/> Secured 3rd place among 12 teams.|
 |🏆 **Indo-US Robo League 2014** <br/> Finalist among ~500 teams.|
 
 <br/>
