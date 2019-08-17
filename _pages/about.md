@@ -13,7 +13,8 @@ googlewebfonts: Gloria+Hallelujah
 <head>
 
 <style>
-
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 #myBtn {
   display: none;
   position: fixed;
@@ -58,7 +59,7 @@ function topFunction() {
 </script>
 
 
-<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 {% include open-embed.html %}
 
 
