@@ -23,11 +23,12 @@ googlewebfonts: Gloria+Hallelujah
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #808080;
+  background-color: #cccccc;
   color: white;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #myBtn:hover {
