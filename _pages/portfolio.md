@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 <html>
+
 <head>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
 <style>
 
 hr {
@@ -47,7 +49,6 @@ hr {
 }
 </style>
 </head>
-<body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
@@ -70,6 +71,7 @@ function topFunction() {
 }
 </script>
 
+<body>
 <!-- ********************************* START *********************************  -->
 
 <h2>Table of Contents</h2>
