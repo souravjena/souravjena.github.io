@@ -9,12 +9,14 @@ redirect_from:
 style: javascript-comic-001.css
 googlewebfonts: Gloria+Hallelujah
 ---
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+{% include open-embed.html %}
 
 <head>
 
 <style>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+/*<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>*/
+
 #myBtn {
   display: none;
   position: fixed;
@@ -59,8 +61,7 @@ function topFunction() {
 </script>
 
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-{% include open-embed.html %}
+
 
 
 <span style="font-size:1.1em;">"What I Cannot Create, I Do Not Understand."</span>
@@ -77,7 +78,7 @@ function topFunction() {
 
 # About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
+1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
 
 How to pronounce my name?
 <audio controls>
