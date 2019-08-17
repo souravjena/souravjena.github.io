@@ -9,14 +9,11 @@ redirect_from:
 style: javascript-comic-001.css
 googlewebfonts: Gloria+Hallelujah
 ---
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 {% include open-embed.html %}
-
 <head>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
 <style>
-/*<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>*/
-
 #myBtn {
   display: none;
   position: fixed;
@@ -37,12 +34,12 @@ googlewebfonts: Gloria+Hallelujah
   background-color: #555;
 }
 </style>
+
 </head>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 <script>
-// When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -53,7 +50,6 @@ function scrollFunction() {
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
@@ -78,7 +74,7 @@ function topFunction() {
 
 # About Me
 
-1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
+2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
 
 How to pronounce my name?
 <audio controls>
