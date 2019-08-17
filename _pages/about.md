@@ -58,19 +58,19 @@ function topFunction() {
 </script>
 
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
 {% include open-embed.html %}
 
 
 <span style="font-size:1.1em;">"What I Cannot Create, I Do Not Understand."</span>
 <br/>
-<span style="font-size:1.1em;">"Know how to solve every problem that has been solved."</span>
-<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<!-- <span style="font-size:1.1em;">"Know how to solve every problem that has been solved."</span>
+<br/> -->
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <span style="font-size:0.9em;">- Richard Feynman</span>
 <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<span style="font-size:0.9em;">(1988, Caltech, his last blackboard notes)</span>
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<span style="font-size:0.9em;">(1988, Caltech, his last blackboard notes)</span> -->
 
 
 
