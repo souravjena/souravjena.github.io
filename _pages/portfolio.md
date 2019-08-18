@@ -4,30 +4,11 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
-<html>
-
+{% include open-embed.html %}
 <head>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
 <style>
-
-hr {
-       display: block;
-       position: relative;
-       padding: 0;
-       margin: 8px auto;
-       height: 0;
-       width: 100%;
-       max-height: 0;
-       font-size: 1px;
-       line-height: 0;
-       clear: both;
-       border: none;
-       border-top: 1px solid #aaaaaa;
-       border-bottom: 1px solid #ffffff;
- }
-
 #myBtn {
   display: none;
   position: fixed;
@@ -42,18 +23,19 @@ hr {
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #myBtn:hover {
   background-color: #555;
 }
 </style>
+
 </head>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 <script>
-// When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -64,15 +46,15 @@ function scrollFunction() {
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
 </script>
 
-<body>
-<!-- ********************************* START *********************************  -->
+
+
+
 
 <h2>Table of Contents</h2>
 
@@ -332,9 +314,3 @@ function topFunction() {
   </tr>
 
 </table>  
-
-
-<!-- ********************************* END *********************************  -->
-
-</body>
-</html>
