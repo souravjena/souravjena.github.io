@@ -69,60 +69,32 @@ function topFunction() {
 
 
 <h2>Categories</h2>
-<a href="http://localhost:4000/tags/#embedded-systems" style="text-decoration:none;" class="page__taxonomy-item" rel="tag">Embedded Systems</a>
-<a href="http://localhost:4000/tags/#iot" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Internet of Things</a>
-<a href="http://localhost:4000/tags/#blockchain" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Blockchain</a>
-<a href="http://localhost:4000/tags/#robotics" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Robotics</a>
-<a href="http://localhost:4000/tags/#machine-learning" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Machine Learning</a>
-<a href="http://localhost:4000/tags/#data-analysis" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Data Analysis</a>
-<a href="http://localhost:4000/tags/#hardware" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Hardware</a>
-<a href="http://localhost:4000/tags/#algorithm-designing" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Algorithm Designing</a>
-<a href="http://localhost:4000/tags/#medical-device" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Medical Device</a>
-<a href="http://localhost:4000/tags/#sustainable-development" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Sustainable Development</a>
+<a href="/tags/#embedded-systems" style="text-decoration:none;" class="page__taxonomy-item" rel="tag">Embedded Systems</a>
+<a href="/tags/#iot" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Internet of Things</a>
+<a href="/tags/#blockchain" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Blockchain</a>
+<a href="/tags/#robotics" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Robotics</a>
+<a href="/tags/#machine-learning" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Machine Learning</a>
+<a href="/tags/#data-analysis" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Data Analysis</a>
+<a href="/tags/#hardware" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Hardware</a>
+<a href="/tags/#algorithm-designing" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Algorithm Designing</a>
+<a href="/tags/#medical-device" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Medical Device</a>
+<a href="/tags/#sustainable-development" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Sustainable Development</a>
 
-<a href="http://localhost:4000/tags/#c" style="text-decoration:none" class="page__taxonomy-item" rel="tag">C</a>
-<a href="http://localhost:4000/tags/#cpp" style="text-decoration:none" class="page__taxonomy-item" rel="tag">C++</a>
-<a href="http://localhost:4000/tags/#python" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Python</a>
-<a href="http://localhost:4000/tags/#javascript" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Javascript</a>
-<a href="http://localhost:4000/tags/#freertos" style="text-decoration:none" class="page__taxonomy-item" rel="tag">FreeRTOS</a>
-<a href="http://localhost:4000/tags/#ros" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ROS</a>
+<a href="/tags/#c" style="text-decoration:none" class="page__taxonomy-item" rel="tag">C</a>
+<a href="/tags/#cpp" style="text-decoration:none" class="page__taxonomy-item" rel="tag">C++</a>
+<a href="/tags/#python" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Python</a>
+<a href="/tags/#javascript" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Javascript</a>
+<a href="/tags/#freertos" style="text-decoration:none" class="page__taxonomy-item" rel="tag">FreeRTOS</a>
+<a href="/tags/#ros" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ROS</a>
 
-<a href="http://localhost:4000/tags/#esp32" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ESP32</a>
-<a href="http://localhost:4000/tags/#arm" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ARM</a>
-<a href="http://localhost:4000/tags/#avr" style="text-decoration:none" class="page__taxonomy-item" rel="tag">AVR</a>
-<a href="http://localhost:4000/tags/#ble" style="text-decoration:none" class="page__taxonomy-item" rel="tag">BLE</a>
-<a href="http://localhost:4000/tags/#pcb" style="text-decoration:none" class="page__taxonomy-item" rel="tag">PCB</a>
-<a href="http://localhost:4000/tags/#linux" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Linux</a>
-<a href="http://localhost:4000/tags/#web" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Web</a>
-<a href="http://localhost:4000/tags/#android" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Android</a>
-
-<!-- <footer class="page__meta">
-        
-  <p class="page__taxonomy">
-    <strong style="color:#495e9d;"><i class="fa fa-fw fa-tags" aria-hidden="true" style="color:Black;"></i> Tags: </strong>
-    <span itemprop="keywords"> -->
-    
-      
-      
-<!--     <a href="http://localhost:4000/tags/#arduino" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Arduino</a><span class="sep">, </span>
-    
-      
-      
-    <a href="http://localhost:4000/tags/#avr" style="text-decoration:none" class="page__taxonomy-item" rel="tag">AVR</a><span class="sep">, </span>
-    
-      
-      
-    <a href="http://localhost:4000/tags/#embedded-systems" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Embedded Systems</a><span class="sep">, </span>
-    
-      
-      
-   <a href="http://localhost:4000/tags/#esp32" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ESP32</a> -->
-    
-<!--    </span>
-  </p>
-
-  </footer> -->
-
+<a href="/tags/#esp32" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ESP32</a>
+<a href="/tags/#arm" style="text-decoration:none" class="page__taxonomy-item" rel="tag">ARM</a>
+<a href="/tags/#avr" style="text-decoration:none" class="page__taxonomy-item" rel="tag">AVR</a>
+<a href="/tags/#ble" style="text-decoration:none" class="page__taxonomy-item" rel="tag">BLE</a>
+<a href="/tags/#pcb" style="text-decoration:none" class="page__taxonomy-item" rel="tag">PCB</a>
+<a href="/tags/#linux" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Linux</a>
+<a href="/tags/#web" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Web</a>
+<a href="/tags/#android" style="text-decoration:none" class="page__taxonomy-item" rel="tag">Android</a>
 
 
 <h2>Scholarly Research</h2>
