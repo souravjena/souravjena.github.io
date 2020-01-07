@@ -75,7 +75,10 @@ function topFunction() {
 
 # About Me
 
-3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
+Hi! I am currently working in Embedded Real-Time Systems Lab, CSE Department at IIT Bombay. I have over 2 years of experience in firmware development.
+My current area of interest is in implementing Machine Learning on Resource Constrained Devices.
+
+
 
 How to pronounce my name?
 <audio controls>
@@ -84,14 +87,14 @@ How to pronounce my name?
      a <a href="audio/robot.mp3">link to the audio</a> instead.</p>
 </audio>
 
-\\[
+<!-- \\[
 \begin{split}
 r &= \begin{pmatrix} R & 0 \\\\ 0 & 1 \\\\ \end{pmatrix} \\\\\\\\
 t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 \end{split}
 \\]
 
-<br/>
+<br/> -->
 
 
 # Research Interests
@@ -103,7 +106,7 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 * Wireless Sensor Networks
 * Computer Networks
 * Robotics
-* Medical Devices
+* Machine Learning
 
 
 <br/>
@@ -208,19 +211,19 @@ Complete list of projects can be found [here](/portfolio/).
   <tr>
     <td>
       <b><span style="font-size:1.1em;">Firmware over-the-air (FOTA) for AVR based boards using ESP32</span></b>
-      <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span>
+      <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
       <b><span style="font-size:0.8em;">IIT Bombay</span></b>
-      <br/> <span style="font-size:0.8em;">Kavi Arya, Sourav Jena, Kalind Karia, Prasad Trimukhi, Raj Kumar Bhagat, Soham Bhave</span> 
-      <br/> <b><span style="font-size:0.8em;">Links:</span></b>
+      <br/> <span style="font-size:0.8em;">Prof. Kavi Arya, Sourav Jena, Prasad Trimukhe, Raj Kumar Bhagat, Soham Bhave, Kalind Karia</span> 
+<!--       <br/> <b><span style="font-size:0.8em;">Links:</span></b>
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Paper</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Project Page</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Video Demo</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Source Code</a>
-      <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b>
+      <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b> -->
 
-      <br/><br/><span style="font-size:0.85em;">
+<!--       <br/><br/><span style="font-size:0.85em;">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
-      </span><br/><br/>
+      </span><br/><br/> -->
 
     </td>
   </tr>
@@ -228,19 +231,19 @@ Complete list of projects can be found [here](/portfolio/).
   <tr>
     <td>
       <b><span style="font-size:1.1em;">Push-Pop Algorithm for NAND Flash Devices</span></b>
-      <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span>
-      <b><span style="font-size:0.8em;">IIT Bombay</span></b>
-      <br/> <span style="font-size:0.8em;">Kavi Arya, Sourav Jena, Kalind Karia, Prasad Trimukhi, Raj Kumar Bhagat, Soham Bhave</span> 
-      <br/> <b><span style="font-size:0.8em;">Links:</span></b>
+      <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
+      <b><span style="font-size:0.8em;">Numadic</span></b>
+      <br/> <span style="font-size:0.8em;">Sourav Jena</span> 
+<!--       <br/> <b><span style="font-size:0.8em;">Links:</span></b>
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Paper</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Project Page</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Video Demo</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Source Code</a>
-      <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b>
+      <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b> -->
 
-      <br/><br/><span style="font-size:0.85em;">
+<!--       <br/><br/><span style="font-size:0.85em;">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
-      </span><br/><br/>
+      </span><br/><br/> -->
 
     </td>
   </tr>
@@ -248,19 +251,19 @@ Complete list of projects can be found [here](/portfolio/).
   <tr>
     <td>
       <b><span style="font-size:1.1em;">Communication System for People with Neuromuscular Disease using Brain Computer Interface</span></b>
-      <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span>
-      <b><span style="font-size:0.8em;">IIT Bombay</span></b>
-      <br/> <span style="font-size:0.8em;">Kavi Arya, Sourav Jena, Kalind Karia, Prasad Trimukhi, Raj Kumar Bhagat, Soham Bhave</span> 
-      <br/> <b><span style="font-size:0.8em;">Links:</span></b>
+      <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
+      <b><span style="font-size:0.8em;">BIT Mesra</span></b>
+      <br/> <span style="font-size:0.8em;">Prof. Shahiruddin, Sourav Jena</span> 
+<!--       <br/> <b><span style="font-size:0.8em;">Links:</span></b>
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Paper</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Project Page</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Video Demo</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Source Code</a>
       <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b>
-
-      <br/><br/><span style="font-size:0.85em;">
+ -->
+<!--       <br/><br/><span style="font-size:0.85em;">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
-      </span><br/><br/>
+      </span><br/><br/> -->
 
     </td>
   </tr>
@@ -268,10 +271,10 @@ Complete list of projects can be found [here](/portfolio/).
   <tr>
     <td>
       <b><span style="font-size:1.1em;">Retrofitment of CNC machines for Hybrid Layered Manufacturing</span></b>
-      <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span>
-      <b><span style="font-size:0.8em;">IIT Bombay</span></b>
-      <br/> <span style="font-size:0.8em;">Kavi Arya, Sourav Jena, Kalind Karia, Prasad Trimukhi, Raj Kumar Bhagat, Soham Bhave</span> 
-      <br/> <b><span style="font-size:0.8em;">Links:</span></b>
+      <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
+      <b><span style="font-size:0.8em;">IIT Kanpur</span></b>
+      <br/> <span style="font-size:0.8em;">Prof. J. Ramkumar, Ravi Raj, Sourav Jena</span> 
+<!--       <br/> <b><span style="font-size:0.8em;">Links:</span></b>
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Paper</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Project Page</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Video Demo</a>, 
@@ -280,7 +283,7 @@ Complete list of projects can be found [here](/portfolio/).
 
       <br/><br/><span style="font-size:0.85em;">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
-      </span><br/><br/>
+      </span><br/><br/> -->
 
     </td>
   </tr>
@@ -292,15 +295,13 @@ Complete list of projects can be found [here](/portfolio/).
 
 # Teaching
 
-* **2019-Present, IIT Bombay**, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* **2019-Present, IIT Bombay**, Instructor and Theme Developer
 
-* **2019-Present, IIT Bombay**, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-* **2015-17, BIT Mesra**, Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+* **2015-17, BIT Mesra**, Instructor, Roboitcs Club
 
 ### Volunteer Work
 
-* **2013-16, WOSCA**, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* **2013-16, WOSCA**, Community Tutor
 
 
 <br/>
