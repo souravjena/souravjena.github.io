@@ -253,7 +253,7 @@ Complete list of projects can be found [here](/portfolio/).
 
   <tr>
     <td>
-      <b><span style="font-size:1.1em;">Custom Logical Data Structure and Search Algorithm for Wear-Leveling in NAND Flash Devices</span></b>
+      <b><span style="font-size:1.1em;">Custom Logical Data Structure and Search Algorithm for Wear-Levelling in NAND Flash Devices</span></b>
       <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
       <b><span style="font-size:0.8em;">Numadic</span></b>
       <br/> <span style="font-size:0.8em;">Sourav Jena</span> 
