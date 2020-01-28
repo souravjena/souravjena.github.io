@@ -21,6 +21,6 @@ author_profile: true
 
 {% include image-gallery.html folder="/album" %}
 
-<h2> Gardening </h2>
+<!-- <h2> Gardening </h2> -->
 
 

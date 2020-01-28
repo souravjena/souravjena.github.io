@@ -97,6 +97,11 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <br/> -->
 
 <br/>
+<strong><a href="https://drive.google.com/file/d/1ankk-taWxsiatL2BojCDF8rHCiwLkFYJ/view?usp=sharing" target="_blank">Curriculum Vitae</a> (last updated: January 2020)</strong>
+
+
+
+<br/>
 
 # Research Interests
 
@@ -211,10 +216,27 @@ Complete list of projects can be found [here](/portfolio/).
   
   <tr>
     <td>
-      <b><span style="font-size:1.1em;">Firmware over-the-air (FOTA) for AVR based boards using ESP32</span></b>
+      <b><span style="font-size:1.1em;">eYFi Mega - Low Cost Emebedded and IoT Research Platform</span></b>
       <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
       <b><span style="font-size:0.8em;">IIT Bombay</span></b>
-      <br/> <span style="font-size:0.8em;">Prof. Kavi Arya, Sourav Jena, Prasad Trimukhe, Raj Kumar Bhagat, Soham Bhave, Kalind Karia</span> 
+      <br/> <span style="font-size:0.8em;">Prof. Kavi Arya, Prasad Trimukhe*, Sourav Jena*, Kalind Karia (* = Equal Contribution)</span> 
+      <br/> <b><span style="font-size:0.8em;">Link:</span></b>
+      <a style="font-size:0.8em;" href="http://products.e-yantra.org/eyfi-mega/"  target="_blank">Website</a> 
+      <br/> <b><span style="font-size:0.8em;">Status: Ongoing</span></b>
+
+<!--       <br/><br/><span style="font-size:0.85em;">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu mi vel libero vestibulum imperdiet. Nam non lectus at purus placerat bibendum ac vel ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum molestie ultricies ullamcorper. Nullam quis tortor lobortis, hendrerit elit a, malesuada tortor. Curabitur sed sollicitudin odio, at posuere ante.
+      </span><br/><br/> -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b><span style="font-size:1.1em;">Firmware over-the-air (FOTA) for STM32 based boards using ESP32</span></b>
+      <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
+      <b><span style="font-size:0.8em;">IIT Bombay</span></b>
+      <br/> <span style="font-size:0.8em;">Prof. Kavi Arya, Sourav Jena</span> 
 <!--       <br/> <b><span style="font-size:0.8em;">Links:</span></b>
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Paper</a>, 
       <a style="font-size:0.8em;" href="http://www.yahoo.com"  target="_blank">Project Page</a>, 
@@ -231,7 +253,7 @@ Complete list of projects can be found [here](/portfolio/).
 
   <tr>
     <td>
-      <b><span style="font-size:1.1em;">Push-Pop Algorithm for NAND Flash Devices</span></b>
+      <b><span style="font-size:1.1em;">Custom Logical Data Structure and Search Algorithm for Wear-Leveling in NAND Flash Devices</span></b>
       <!-- <br/> <span style="font-size:0.8em;">Jun. 19 - Present, </span> -->
       <b><span style="font-size:0.8em;">Numadic</span></b>
       <br/> <span style="font-size:0.8em;">Sourav Jena</span> 
