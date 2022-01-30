@@ -4,7 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-| Senior Project Technical Assistant                           |
-| Embedded Real-Time Systems Lab, Department of Computer Science and Engineering, |
-| Indian Institute of Technology Bombay                        |
-| **Email:** <code class="highlighter-rouge">souravjena at cse dot iitb dot ac dot in </code>                    |
+
+<p>
+Sourav Jena <br/>
+Graduate Student <br/>
+Department of Electrical and Computer Engineering <br/>
+University of Washington, Seattle WA 98195-2500 <br/><br/>
+<b>Email</b>: <code class="highlighter-rouge">sjena94 at uw dot edu</code>
+</p>

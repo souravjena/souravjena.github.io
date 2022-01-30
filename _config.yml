@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "Sourav Jena"
 title_separator          : "-"
 name                     : &name "Sourav Jena"
-description              : &description "Senior Project Technical Assistant, IIT Bombay"
+description              : &description "MS ECE, UW Seattle"
 url                      : https://souravjena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "souravjena/souravjena.github.io"
@@ -90,9 +90,9 @@ analytics:
 author:
   name             : "Sourav Jena"
   avatar           : "profile.png"
-  bio              : "Senior Project Technical Assistant"
-  location         : "Mumbai, India"
-  employer         : "IIT Bombay"
+  bio              : "MS ECE, UW Seattle"
+  location         : "Seattle, WA"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :  
@@ -110,7 +110,7 @@ author:
   instagram        : "souravjena_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/souravjena/"
+  linkedin         : "souravjena"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
