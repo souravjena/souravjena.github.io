@@ -685,20 +685,6 @@ pre-trained OpenPose MobileNetv1 was used to generate the kinematic model of the
 
 <br/>
 
-# Teaching
-
-- **2019-2021, IIT Bombay**, Embedded Systems Instructor and Theme Developer
-
-- **2015-17, BIT Mesra**, Instructor, Roboitcs Club
-
-### Volunteer Work
-
-- **2013-16, WOSCA**, Community Tutor
-
-<br/>
-
-<br/>
-
 # Honors and Awards
 
 [//]: # "Trophy emoji ~🏆~"
@@ -747,9 +733,47 @@ pre-trained OpenPose MobileNetv1 was used to generate the kinematic model of the
 
 <br/>
 
+# Teaching
+
+<table style="width:100%">
+    <tr>
+      <td align="left">2019-2021, <b>Embedded Systems Instructor</b>, IIT Bombay
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2015-17, <b>Instructor</b>, Roboitcs Club, BIT Mesra
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2013-16, <b>Community Tutor</b>, Women's Organisation for Socio-Cultural Awareness
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2016-17, <b>Vice Captain</b>, ECE Soccer Team, BIT Mesra
+      </td>
+    </tr>
+</table>
+
+<br/>
+<br/>
+
 # Position of Responsibility
 
-- 2020-21, Judge, International Micromouse Challenge, Techfest 2020, IIT Bombay
-- 2016-17, Traning and Placment Officer, BIT Mesra
-- 2015-17, President, Robotics Club, BIT Mesra
-- 2016-17, Vice Captain, ECE Football Team, BIT Mesra
+<table style="width:100%">
+    <tr>
+      <td align="left">2020-21, <b>Judge</b>, International Micromouse Challenge, Techfest 2020, IIT Bombay
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2016-17, <b>Traning and Placment Officer</b>, BIT Mesra
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2015-17, <b>President</b>, Robotics Club, BIT Mesra
+      </td>
+    </tr>
+    <tr>
+      <td align="left">2016-17, <b>Vice Captain</b>, ECE Soccer Team, BIT Mesra
+      </td>
+    </tr>
+</table>
