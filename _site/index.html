@@ -381,6 +381,18 @@ mp3_embed();
 #myBtn:hover {
   background-color: #555;
 }
+
+table
+{
+    table-layout: fixed;
+    width: 100px;
+}
+
+/* td
+{
+    border: 1px solid green;
+    overflow: hidden;
+} */
 </style>
 
 </head>
@@ -445,20 +457,346 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 
 <!-- <br/>
 
-<br/> -->
+<!--
 
-<!-- # Research Interests
+SW Projects
 
-- Real-Time Systems
-- Embedded Systems
-- Cyber-Physical Systems
-- Internet of Things
-- Wireless Sensor Networks
-- Computer Networks
-- Robotics
-- Machine Learning
+DSA
+1. Snakes Game: Array, Game Loop
+2. Sudoku: Backtracking, 2D Array
+3. Travel Planner: Dijkstra, Graph
+4. Splitwise Cashflow Minimization: Heap, Graphs
+5. Whatsapp Chatlist: LRU Cache, Hashmap
+6. Text Editor: Stack
+7. FileZipper:Binary Trees, Huffman Encoding
+8. Photoeditor: Multi-Dimentional Arrays
+9. Contact List: Trees, Tries
+10. Chatbot: Trees, APIs, JSON
+11. CB Mario: Greedy Programming, Phasors
+12. Jumpy Frog: Dynamic Programming, Phasors
 
-<br/> -->
+
+Backend
+1. QMoney
+2. QEats
+3. T-Mobile
+
+
+Course Projects
+1. Gymbo
+2. HuskyMap
+
+
+Firmware Projects
+
+
+∗ Led the software and firmware side of the development board, which is currently being used in the CS684 course at IIT
+Bombay and was used in eY Robotics Competition by 364 participants.
+∗ Developed an OTA application for ESP32 to start a Wireless Access Point, host a file server and allow OTA firmware
+update of the onboard microcontrollers, i.e. ATmega2560 and ESP32.
+∗ Modified the bootloader and partition table of ESP32 to enable switching between OTA application and user
+application in the flash, based on the status of a GPIO pin.
+
+ -->
+<p><br /></p>
+
+<h1 id="projects">Projects</h1>
+
+<h2 id="firmware-projects">Firmware Projects</h2>
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/eyfi.png" alt="UW-Logo" /> <br /> <br /> 
+	<b> eYFi-Mega Development Board </b> <br /> 
+	Patent Pending <br />(<a style="font-size:0.8em;" href="https://drive.google.com/file/d/1Zu8DRXQV6ZWR5S5kxHddBm599YaU18YV/view?usp=sharing" target="_blank">IN 202121023159</a>)<br />
+	IIT Bombay <br />
+	<a href="https://products.e-yantra.org/eyfi-mega/" target="_blank">Product Page</a>
+	</td>
+    <td align="left"> 
+		<center><i>C, HTTP Server, Bootloader, OTA Update, ESP32, AVR</i></center>
+		<ul>
+			<li>
+			Led the software and firmware side of the development board, which is currently being used in the CS684 course at IIT Bombay and was used in eY Robotics Competition by 364 participants.
+			</li>
+			<li>
+			Developed an OTA application for ESP32 to start a Wireless Access Point, host a file server and allow OTA firmware update of the onboard microcontrollers, i.e. ATmega2560 and ESP32.
+			</li>
+			<li>
+			Modified the bootloader and partition table of ESP32 to enable switching between OTA application and user application in the flash, based on the status of a GPIO pin.
+			</li>
+		</ul>  
+    </td>
+  </tr>
+
+  <tr>
+  	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/nubot.png" alt="UW-Logo" /> <br /> <br /> 
+	<b> Nubot GPS Tracker </b> <br /> 
+	Numadic <br />
+	<!-- <a href="https://products.e-yantra.org/eyfi-mega/"  target="_blank">Product Page</a> -->
+	</td>
+    <td align="left"> 
+		<center><i>C, Flash Memory, OTA Update, ESP32</i></center>
+		<ul>
+			<li>
+			Extended life of W25N01GV 1Gb NAND Flash Memory used in Nubot by 29% by developing a custom logical data structure to push data in O(logN) and retrieve data from it in O(logN) (N = Total number of pages in the flash).
+			</li>
+			<li>
+			Wrote an OTA server to serve firmware and a client for ESP32 to fetch firmware using just sockets in C.
+			</li>
+			<li>
+			Developed a GATT Client Android App to debug Nubot v2 wirelessly over BLE.
+			</li>
+		</ul>  
+    </td>
+  </tr>
+
+  <tr>
+  	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/nubit.png" alt="UW-Logo" /> <br /> 
+	<b> Nubit Temperature Logger </b> <br /> 
+	Numadic <br />
+	<!-- <a href="https://products.e-yantra.org/eyfi-mega/"  target="_blank">Product Page</a> -->
+	</td>
+    <td align="left"> 
+		<center><i>C, Javascript, HTTP Server, AJAX, ESP32, FreeRTOS, WLAN</i></center>
+		<ul>
+			<li>
+			Wrote firmware for this device which enabled it to host an HTTP server and serve a dynamic HTML page to plot temperature logged in real-time and provide an interface for the user to download logged data over Wi-Fi.
+			</li>
+		</ul>  
+    </td>
+  </tr>
+
+</table>
+
+<h2 id="software-projects">Software Projects</h2>
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/tmobile.png" alt="UW-Logo" /> <br /> 
+	<b> 5G Home Internet QoS Prediction App </b> <br /> 
+	T-Mobile <br />
+	Ongoing Project <br />
+	</td>
+    <td align="left">
+    <center><i>XCAL/XCAP, Java, Python, Kotlin, scikit-learn, Spring, Android Studio
+</i></center>
+    	<ul>
+    		<li> 
+			Collecting outdoor/indoor low and mid-band, 4G and 5G data using XCAL/XCAP.
+			</li>
+			<li> 
+			 Training an ML model to predict the quality of service for 5G mid-band from low or 4G mid-band signals.
+			</li>
+			<li> 
+			 Developing an Android app and the backend of the app for potential customers to predict the expected internet speed of T-Mobile 5G Home Internet at their home before they subscribe for the service.
+			</li>
+    	</ul>
+    </td>
+	</tr>
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/huyskymaps.png" alt="UW-Logo" /> <br /> 
+	<b> HuskyMaps </b> <br /> 
+	University of Washington <br />
+	Course Project <br />
+	</td>
+    <td align="left">
+    <center><i>Java, Data Structures and Algorithms</i></center>
+    	<ul>
+    		<li> 
+			Implemented several algorithms in Java to add functionalities to HuskyMaps like autocomplete using Ternary Search Trees, changing the priority of an item using Optimized Min Heap and seam-carving of an image using Adjacency Lists, Topo Sort, Dijkstra’s and Dynamic Programming.
+			</li>
+    	</ul>
+    </td>
+	</tr>
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/eyantra.png" alt="UW-Logo" /> <br /> 
+	<b> eY IoT Framework </b> <br /> 
+	IIT Bombay <br />
+	<a href="https://e-yantra-r3.github.io/ey-iot-framework/" target="_blank">Documentation</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Python, Pytorch, OpenCV, Deep Learning, Computer Vision</i></center>
+    	<ul>
+    		<li> Developed an embedded software framework for ESP32 with two interns to write event-driven code for IoT applications.
+			</li>
+    	</ul>
+    </td>
+	</tr>
+	<tr>
+	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/eysim.png" alt="UW-Logo" /> <br /> 
+	<b> eY IoT Circuit Simulator </b> <br /> 
+	IIT Bombay <br />
+	<a href="https://www.youtube.com/embed/iXrWR6PEd-E" target="_blank">Video</a> <br />
+	</td>
+    <td align="left">
+    <center><i>C++, Qt 5, Python, MQTT</i></center>
+    	<ul>
+    		<li> Forked and modified SimulIDE to add eYFi-Mega in it for circuit simulation.
+			</li> 
+			<li>
+			Integrated it with a self-developed python middleware to allow MQTT Pub-Sub through the simulator.
+			</li>
+    	</ul>
+    </td>
+  </tr>
+	<tr>
+	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/arduino.png" alt="UW-Logo" /> <br /> 
+	<b> Arduino <br /> (For eYFi-Mega) </b> <br /> 
+	IIT Bombay <br />
+	<a href="https://www.youtube.com/embed/XiOXn4fECPA" target="_blank">Video</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Golang, curl</i></center>
+    	<ul>
+    		<li> Wrote a Golang CLI program to allow wireless uploading of Arduino sketches on both the controllers of
+eYFi-Mega (ESP32 and ATMega2560) via Arduino IDE.
+			</li> 
+    	</ul>
+    </td>
+  </tr>
+	<tr>
+	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/hlmsoft.png" alt="UW-Logo" /> <br /> 
+	<b> HLMSoft </b> <br />
+	IIT Kanpur <br />
+	<a href="https://drive.google.com/file/d/10GQhUYejyLO33X-e44WHkGzVVf4vWjAe/view" target="_blank">Report</a> <br />
+	</td>
+    <td align="left">
+    <center><i>C++, Qt</i></center>
+    	<ul>
+    		<li> Developed HLMSoft in C++ using Qt Framework to link additive and subtractive manufacturing commands into
+a single G-Code file enabling the controller of the CNC machine to control milling and welding unit for hybrid layered
+manufacturing.
+			</li> 
+    	</ul>
+    </td>
+  </tr>
+</table>
+
+<h2 id="robotics-project">Robotics Project</h2>
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/vargibots.png" alt="UW-Logo" /> <br /> <br />
+	<b> Vargi-Bots </b> <br /> 
+	IIT Bombay <br />
+	Accepted in IEEE EDUCON 2022 <br />
+	<a href="https://github.com/e-yantra-r3/vb_simulation_pkgs" target="_blank">Github</a> <br />
+	<a href="https://www.youtube.com/embed/upjR6p2-RZU?start=133" target="_blank">Video</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Python, ROS, Gazebo, OpenCV, MQTT, HTTP</i></center>
+    	<ul>
+    		<li>Partnered with two team members to build a fully automated <br /> 
+			shipping warehouse with two UR5 Robotic Arms in Gazebo Simulator.
+			</li>
+    		<li>
+			It can receive online orders via MQTT, log the data in a Google Sheet, <br /> 
+			send email notifications, and display relevant information on a hosted dashboard in real-time.
+			</li>
+			<li>
+			It was used to teach 1880 students ROS, Python, OpenCV, <br /> 
+			Robotic Manipulation and IoT.
+			</li>
+    	</ul>
+    </td>
+
+  </tr>
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/micromouse.png" alt="UW-Logo" /> <br />
+	<b> International Micromouse Challenge</b> <br /> 
+	Techfest 19-2020 &amp; 20-2021, IIT Bombay <br />
+	<a href="https://drive.google.com/file/d/1N10GsUFk6qPmNsMxOwZvo-TO3amay-sx/view" target="_blank">Certificate</a> <br />
+	<a href="https://drive.google.com/file/d/1Xvpvki7hyFNJYde4SkV3xRy7aYj7rbDw/view?usp=sharing" target="_blank">Rulebook</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Python, ROS, Gazebo, URDF</i></center>
+    	<ul>
+    		<li> Judged the competition and provided technical assistance to the organizers of the competition.
+			</li>
+			<li>
+			Developed an URDF micromouse model equipped with LIDAR and generated a URDF maze for the competition.
+			</li>
+    		<li>
+			Wrote a sample python script to run the micromouse in the maze.
+			</li>
+    	</ul>
+    </td>
+
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/rr.png" alt="UW-Logo" /> <br />
+	<b> Rapid Rescuer </b> <br /> 
+	IIT Bombay <br />
+	<a href="https://ieeexplore.ieee.org/document/9453995" target="_blank">IEEE Paper</a> <br />
+	<a href="https://www.youtube.com/embed/pu-BkZVaOLQ" target="_blank">Video</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Python, ROS, Gazebo, URDF</i></center>
+    	<ul>
+    		<li> Partnered with three team members in building MicroMouse like theme for the e-Yantra Robotics Competition
+2019-20 to teach on OpenCV, Socket Programming, Embedded Systems and Hardware Designing to around 4000
+students through Task Based Training.
+			</li>
+    	</ul>
+    </td>
+
+  </tr>
+
+</table>
+
+<h2 id="deep-learning-project">Deep Learning Project</h2>
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/projects/gymbo.png" alt="UW-Logo" /> <br /> 
+	<b> GymBo </b> <br /> 
+	University of Washington <br />
+	Course Project <br />
+	<a href="https://www.youtube.com/embed/HcZkt09OFKg" target="_blank">Video</a> <br />
+	</td>
+    <td align="left">
+    <center><i>Python, Pytorch, OpenCV, Deep Learning, Computer Vision</i></center>
+    	<ul>
+    		<li>Developed a deep learning-based workout assistant application to identify mistakes during an exercise and count the
+number of incorrect repetitions in a set of exercises. A ResNet3D-18 backbone was used to classify the exercises, and a
+pre-trained OpenPose MobileNetv1 was used to generate the kinematic model of the user doing the exercise.
+			</li>
+    	</ul>
+    </td>
+
+  </tr>
+
+</table>
+
+<!-- ## Software Projects (Data Structures and Algorithms Focused)
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/gifs/snakes.gif" alt="UW-Logo"> <br/>
+	<b> Snakes Game </b> <br/>
+	Personal Project <br/>
+	<a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Play!</a>
+	</td>
+    <td align="left">
+		<center><i>Javascript, OOP, Arrays, Game-Loop</i></center>
+		<ul>
+			<li>Built this classic game to learn OOP and Arrays data-structure.</li>
+			<li>Learned about Game-Loops also.</li>
+		</ul>
+    </td>
+  </tr>
+
+</table> -->
+
+<!-- ____________________________________________________________ -->
 
 <p><br /></p>
 
@@ -467,8 +805,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <table style="width:100%">
 
 <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/uw.png" alt="UW-Logo" /> <br /> <b>University of Washington  <br /> Seattle</b> <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/uw.png" alt="UW-Logo" /> <br /> <b>University of Washington  <br /> Seattle</b> <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>Sep. 21 - Dec. 22</b>
 		<br /> MS ECE
     	<br /> Department of Electrical and Computer Engineering 
@@ -479,8 +817,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/bit-mesra.jpg" alt="BIT-Logo" /> <br /> <b>Birla Institute of Technology <br /> Mesra</b> <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/bit-mesra.jpg" alt="BIT-Logo" /> <br /> <b>Birla Institute of Technology <br /> Mesra</b> <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>Aug. 13 - Jun. 17</b>
 		<br /> BE ECE 
     	<br /> Department of Electronics and Communication 
@@ -499,8 +837,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <table style="width:100%">
 
   <tr>
-    <td align="center"><img width="70px" height="70px" src="/_pages/logos/tmobile.png" alt="tmobile-Logo" /> <br /> <b>T-Mobile</b> <br />Seattle, WA <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="70px" height="70px" src="/_pages/logos/tmobile.png" alt="tmobile-Logo" /> <br /> <b>T-Mobile</b> <br />Seattle, WA <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>Jan. 22 - Present</b> 
     	<br /> Software Intern, 
     	<br /> UW ENGINE
@@ -509,8 +847,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/iit-bombay.png" alt="IITB-Logo" /> <br /> <b>IIT Bombay</b> <br />Mumbai, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/iit-bombay.png" alt="IITB-Logo" /> <br /> <b>IIT Bombay</b> <br />Mumbai, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>Jan. 19 - Present</b> 
     	<br /> Senior Project Technical Assistant, 
     	<br /> Embedded Real-Time Systems Lab,
@@ -519,8 +857,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/csir-nio.png" alt="NIO-Logo" /> <br /> <b>CSIR <br /> National Institute of Oceanography</b> <br />Panajim, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/csir-nio.png" alt="NIO-Logo" /> <br /> <b>CSIR <br /> National Institute of Oceanography</b> <br />Panajim, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>Jun. 18 - Jan. 19</b> 
     	<br /> Project Assistant II, 
     	<br /> Automonous Weather Station Lab,
@@ -529,8 +867,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/numadic.png" alt="Numadic-Logo" /> <br /> <b>Numadic IoT</b> <br />Mumbai, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/numadic.png" alt="Numadic-Logo" /> <br /> <b>Numadic IoT</b> <br />Mumbai, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b> Feb. 17 - May 18 </b>
     	<br /> Feb. 17 - Jun. 17, Firmware Intern 
     	<br /> Jul. 17 - May 18, Junior Firmware Developer 
@@ -538,8 +876,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo" /> <br /> <b>IIT Kanpur</b> <br />Kanpur, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo" /> <br /> <b>IIT Kanpur</b> <br />Kanpur, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>May 16 - Jul. 16</b> 
     	<br /> Undergraduate Researcher, 
     	<br /> Summer Undergraduate Research and Excellence Program,
@@ -548,8 +886,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/ongc.jpg" alt="ONGC-Logo" /> <br /> <b>Oil and Natural Gas Corporation</b> <br />Vadodara, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/ongc.jpg" alt="ONGC-Logo" /> <br /> <b>Oil and Natural Gas Corporation</b> <br />Vadodara, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>May 15 - Jun. 15</b> 
     	<br /> Summer Intern, 
     	<br /> Regional Electronics Lab, Vadodara
@@ -558,8 +896,8 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
   </tr>
 
   <tr>
-    <td align="center"><img width="100px" height="100px" src="/_pages/logos/wosca.png" alt="WOSCA-Logo" /> <br /> <b>Women's Organisation for <br /> Socio-Cultural Awareness</b> <br />Keonjhar, India <br /></td>
-    <td align="center"> 
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="/_pages/logos/wosca.png" alt="WOSCA-Logo" /> <br /> <b>Women's Organisation for <br /> Socio-Cultural Awareness</b> <br />Keonjhar, India <br /></td>
+    <td style="width: 30%;" align="center"> 
     	<b>May 14 - Jul. 14</b>, 
     	<br /><b>Dec 14 - Jan. 15</b>, 
     	<br /><b>Dec 15 - Jan. 16</b>, 

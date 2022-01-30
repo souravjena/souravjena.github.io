@@ -95,4 +95,7 @@ Course Projects
 1. Gymbo
 2. HuskyMap
 
+
+Firmware Projects
+
  -->
