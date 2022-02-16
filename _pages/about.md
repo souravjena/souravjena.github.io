@@ -88,7 +88,7 @@ function topFunction() {
 
 Hi! I am a graduate student at the University of Washington, Seattle, majoring in Electrical and Computer Engineering. My primary interest lies in low-level and high-level software, and I have five years of professional work experience in firmware development.
 
-Currently, I'm seeking a full-time software engineer/firmware engineer position in the US. If you think I'm a good fit, kindly contact me via email (<code class="highlighter-rouge">sjena94 at uw dot edu </code>).
+Currently, I'm seeking summer & fall 2022 software/firmware internship in the US. If you think I'm a good fit, kindly contact me via email (<code class="highlighter-rouge">sjena94 at uw dot edu </code>).
 
 How to pronounce my name?
 <audio controls>
@@ -108,7 +108,7 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <br/> -->
 
 <br/>
-<strong><a href="https://drive.google.com/file/d/1LEdwvB-197dzTcYQzXdubRQb22v-8Pyz/view?usp=sharing" target="_blank">Curriculum Vitae</a> (last updated: January 2022)</strong>
+<strong><a href="https://drive.google.com/file/d/1wYLskop5OqqyRbLXd-7XvoaRsyYzhfM6/view?usp=sharing" target="_blank">Curriculum Vitae</a> (last updated: February 2022)</strong>
 
 <!-- <br/>
 
@@ -695,13 +695,13 @@ pre-trained OpenPose MobileNetv1 was used to generate the kinematic model of the
 <table style="width:100%">
   <tr>
     <td align="left">🏆 <b>Summer Undergraduate Research Grant for Excellence 2016, IIT Kanpur</b> 
-    	<br/> Awarded to 0.0575% of 1600 applicants. <a href="https://drive.google.com/file/d/0B97KaJlgFNSPVXJtSUFoakgtaGs/view?usp=sharing"  target="_blank">Certificate</a>
+    	<br/> Awarded to 0.0575% of 1600 applicants. <a href="https://drive.google.com/file/d/0B97KaJlgFNSPVXJtSUFoakgtaGs/view?usp=sharing&resourcekey=0-X6TWiZo0MGvXP8TS_g6uhQ"  target="_blank">Certificate</a>
     </td>
   </tr>
   
   <tr>
     <td align="left">🏆 <b>Renesas GR-Kaede Design Contest 2015, Bengaluru</b> 
-    	<br/> Finalist (Top 20) among 2000 abstracts. <a href="https://drive.google.com/file/d/0B97KaJlgFNSPbVB1UXl1bndrNW8/view?usp=sharing"  target="_blank">Certificate</a>
+    	<br/> Finalist (Top 20) among 2000 abstracts. <a href="https://drive.google.com/file/d/0B97KaJlgFNSPbVB1UXl1bndrNW8/view?usp=sharing&resourcekey=0-WqHb-NKow8ht55L_LHyf0w"  target="_blank">Certificate</a>
     </td>
   </tr>
 
