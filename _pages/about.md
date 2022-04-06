@@ -165,7 +165,7 @@ application in the flash, based on the status of a GPIO pin.
 <tr>
     <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/uw.png" alt="UW-Logo"> <br/> <b>University of Washington  <br/> Seattle</b> <br/></td>
     <td style="width: 30%;" align="center"> 
-    	<b>Sep. 21 - Dec. 22</b>
+    	<b>Sep. 21 - Mar. 23</b>
 		<br/> MS ECE
     	<br/> Department of Electrical and Computer Engineering 
     	<br/> <b>GPA: 4.0/4.0</b>
