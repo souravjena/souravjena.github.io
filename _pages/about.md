@@ -88,7 +88,7 @@ function topFunction() {
 
 Hi! I am a graduate student at the University of Washington, Seattle, majoring in Electrical and Computer Engineering. My primary interest lies in low-level and high-level software, and I have five years of professional work experience in firmware development.
 
-Currently, I'm seeking summer & fall 2022 software/firmware internship in the US. If you think I'm a good fit, kindly contact me via email (<code class="highlighter-rouge">sjena94 at uw dot edu </code>).
+Currently, I'm seeking full-time firmware/software engineering opportunities in the US. If you think I'm a good fit, kindly contact me via email (<code class="highlighter-rouge">sjena94 at uw dot edu </code>).
 
 How to pronounce my name?
 <audio controls>
@@ -154,6 +154,135 @@ application in the flash, based on the status of a GPIO pin.
 
  -->
 <br/>
+
+<!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
+
+# Education
+
+<table style="width:100%">
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/uw.png" alt="UW-Logo"> <br/> <b>University of Washington  <br/> Seattle</b> <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Sep. 21 - Dec. 22</b>
+		<br/> MS ECE
+    	<br/> Department of Electrical and Computer Engineering 
+    	<br/> <b>GPA: 4.0/4.0</b>
+    	<!-- <br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
+    	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a> -->
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/bit-mesra.jpg" alt="BIT-Logo"> <br/> <b>Birla Institute of Technology <br/> Mesra</b> <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Aug. 13 - Jun. 17</b>
+		<br/> BE ECE 
+    	<br/> Department of Electronics and Communication 
+    	<br/> <b>CGPA: 8.07/10.00</b> <br/> (First Class with Distinction) 
+    	<br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
+    	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a>
+    </td>
+  </tr>
+
+</table>
+
+<br/>
+
+
+<!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
+
+
+# Experience
+
+<table style="width:100%">
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/tesla.png" alt="tesla-Logo"> <br/>  Palo Alto, CA <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Jun. 22 - Dec. 22</b> 
+    	<br/> Autopilot Firmware Intern
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="70px" height="70px" src="{{site.baseurl}}/_pages/logos/tmobile.png" alt="tmobile-Logo"> <br/> <b>T-Mobile</b> <br/>Seattle, WA <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Jan. 22 - Jun. 22</b> 
+    	<br/> Capstone Project Member, 
+    	<br/> UW ENGINE
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-bombay.png" alt="IITB-Logo"> <br/> <b>IIT Bombay</b> <br/>Mumbai, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Jan. 19 - Present</b> 
+    	<br/> Senior Project Technical Assistant, 
+    	<br/> Embedded Real-Time Systems Lab,
+    	<br/> Computer Science and Engineering Department
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/csir-nio.png" alt="NIO-Logo"> <br/> <b>CSIR <br/> National Institute of Oceanography</b> <br/>Panajim, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Jun. 18 - Jan. 19</b> 
+    	<br/> Project Assistant II, 
+    	<br/> Automonous Weather Station Lab,
+    	<br/> Marine Instrumentation and Computer Department 
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/numadic.png" alt="Numadic-Logo"> <br/> <b>Numadic IoT</b> <br/>Mumbai, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b> Feb. 17 - May 18 </b>
+    	<br/> Feb. 17 - Jun. 17, Firmware Intern 
+    	<br/> Jul. 17 - May 18, Junior Firmware Developer 
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo"> <br/> <b>IIT Kanpur</b> <br/>Kanpur, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>May 16 - Jul. 16</b> 
+    	<br/> Undergraduate Researcher, 
+    	<br/> Summer Undergraduate Research and Excellence Program,
+    	<br/> Mechanical Engineering Department 
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/ongc.jpg" alt="ONGC-Logo"> <br/> <b>Oil and Natural Gas Corporation</b> <br/>Vadodara, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>May 15 - Jun. 15</b> 
+    	<br/> Summer Intern, 
+    	<br/> Regional Electronics Lab, Vadodara
+    	<br/> 
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/wosca.png" alt="WOSCA-Logo"> <br/> <b>Women's Organisation for <br/> Socio-Cultural Awareness</b> <br/>Keonjhar, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>May 14 - Jul. 14</b>, 
+    	<br/><b>Dec 14 - Jan. 15</b>, 
+    	<br/><b>Dec 15 - Jan. 16</b>, 
+    	<br/> Volunteer Teacher <br/>
+    </td>
+  </tr>
+
+</table>
+
+<br/>
+
+
+<!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
+
 
 # Projects
 
@@ -224,6 +353,48 @@ application in the flash, based on the status of a GPIO pin.
 
 </table>
 
+
+
+## Software Projects (Data Structures and Algorithms Focused)
+
+<table style="width:100%">
+
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/huyskymaps.png" alt="UW-Logo"> <br/> 
+	<b> HuskyMaps </b> <br/> 
+	University of Washington <br/>
+	Course Project <br/>
+	</td>
+    <td align="left">
+    <center><i>Java, Data Structures and Algorithms</i></center>
+    	<ul>
+    		<li> 
+			Implemented several algorithms in Java to add functionalities to HuskyMaps like autocomplete using Ternary Search Trees, changing the priority of an item using Optimized Min Heap and seam-carving of an image using Adjacency Lists, Topo Sort, Dijkstra’s and Dynamic Programming.
+			</li>
+    	</ul>
+    </td>
+	</tr>
+
+
+<tr>
+    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/snake.png" alt="UW-Logo"> <br/>
+	<b> Snakes Game </b> <br/>
+	Personal Project <br/>
+	<a href="https://souravjena.github.io/snake_game/"  target="_blank">Play!</a>
+	</td>
+    <td align="left">
+		<center><i>Javascript, OOP, Arrays, Game-Loop</i></center>
+		<ul>
+			<li>Built this classic game to learn OOP and Arrays data-structure.</li>
+			<li>Learned about Game-Loops also.</li>
+		</ul>
+    </td>
+  </tr>
+
+</table>
+
+
 ## Software Projects
 
 <table style="width:100%">
@@ -251,21 +422,7 @@ application in the flash, based on the status of a GPIO pin.
     </td>
 	</tr>
 
-<tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/huyskymaps.png" alt="UW-Logo"> <br/> 
-	<b> HuskyMaps </b> <br/> 
-	University of Washington <br/>
-	Course Project <br/>
-	</td>
-    <td align="left">
-    <center><i>Java, Data Structures and Algorithms</i></center>
-    	<ul>
-    		<li> 
-			Implemented several algorithms in Java to add functionalities to HuskyMaps like autocomplete using Ternary Search Trees, changing the priority of an item using Optimized Min Heap and seam-carving of an image using Adjacency Lists, Topo Sort, Dijkstra’s and Dynamic Programming.
-			</li>
-    	</ul>
-    </td>
-	</tr>
+
 
 <tr>
     <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eyantra.png" alt="UW-Logo"> <br/> 
@@ -430,139 +587,13 @@ pre-trained OpenPose MobileNetv1 was used to generate the kinematic model of the
 
 </table>
 
-<!-- ## Software Projects (Data Structures and Algorithms Focused)
 
-<table style="width:100%">
-
-<tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/gifs/snakes.gif" alt="UW-Logo"> <br/>
-	<b> Snakes Game </b> <br/>
-	Personal Project <br/>
-	<a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Play!</a>
-	</td>
-    <td align="left">
-		<center><i>Javascript, OOP, Arrays, Game-Loop</i></center>
-		<ul>
-			<li>Built this classic game to learn OOP and Arrays data-structure.</li>
-			<li>Learned about Game-Loops also.</li>
-		</ul>
-    </td>
-  </tr>
-
-</table> -->
+<br/>
 
 <!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
 
-<br/>
-
-# Education
-
-<table style="width:100%">
-
-<tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/uw.png" alt="UW-Logo"> <br/> <b>University of Washington  <br/> Seattle</b> <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Sep. 21 - Dec. 22</b>
-		<br/> MS ECE
-    	<br/> Department of Electrical and Computer Engineering 
-    	<br/> <b>GPA: 4.0/4.0</b>
-    	<!-- <br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
-    	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a> -->
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/bit-mesra.jpg" alt="BIT-Logo"> <br/> <b>Birla Institute of Technology <br/> Mesra</b> <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Aug. 13 - Jun. 17</b>
-		<br/> BE ECE 
-    	<br/> Department of Electronics and Communication 
-    	<br/> <b>CGPA: 8.07/10.00</b> <br/> (First Class with Distinction) 
-    	<br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
-    	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a>
-    </td>
-  </tr>
-
-</table>
-
-<br/>
-
-# Experience
-
-<table style="width:100%">
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="70px" height="70px" src="{{site.baseurl}}/_pages/logos/tmobile.png" alt="tmobile-Logo"> <br/> <b>T-Mobile</b> <br/>Seattle, WA <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jan. 22 - Present</b> 
-    	<br/> Software Intern, 
-    	<br/> UW ENGINE
-		
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-bombay.png" alt="IITB-Logo"> <br/> <b>IIT Bombay</b> <br/>Mumbai, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jan. 19 - Present</b> 
-    	<br/> Senior Project Technical Assistant, 
-    	<br/> Embedded Real-Time Systems Lab,
-    	<br/> Computer Science and Engineering Department
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/csir-nio.png" alt="NIO-Logo"> <br/> <b>CSIR <br/> National Institute of Oceanography</b> <br/>Panajim, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jun. 18 - Jan. 19</b> 
-    	<br/> Project Assistant II, 
-    	<br/> Automonous Weather Station Lab,
-    	<br/> Marine Instrumentation and Computer Department 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/numadic.png" alt="Numadic-Logo"> <br/> <b>Numadic IoT</b> <br/>Mumbai, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b> Feb. 17 - May 18 </b>
-    	<br/> Feb. 17 - Jun. 17, Firmware Intern 
-    	<br/> Jul. 17 - May 18, Junior Firmware Developer 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo"> <br/> <b>IIT Kanpur</b> <br/>Kanpur, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 16 - Jul. 16</b> 
-    	<br/> Undergraduate Researcher, 
-    	<br/> Summer Undergraduate Research and Excellence Program,
-    	<br/> Mechanical Engineering Department 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/ongc.jpg" alt="ONGC-Logo"> <br/> <b>Oil and Natural Gas Corporation</b> <br/>Vadodara, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 15 - Jun. 15</b> 
-    	<br/> Summer Intern, 
-    	<br/> Regional Electronics Lab, Vadodara
-    	<br/> 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/wosca.png" alt="WOSCA-Logo"> <br/> <b>Women's Organisation for <br/> Socio-Cultural Awareness</b> <br/>Keonjhar, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 14 - Jul. 14</b>, 
-    	<br/><b>Dec 14 - Jan. 15</b>, 
-    	<br/><b>Dec 15 - Jan. 16</b>, 
-    	<br/> Volunteer Teacher <br/>
-    </td>
-  </tr>
-
-</table>
-
-<br/>
 
 # Patent and Publications
 
