@@ -106,7 +106,7 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <br/> -->
 
 <br/>
-<strong><a href="https://drive.google.com/file/d/1AneZlVDZODQSGOFXCBjj6id2wPG82bto/view" target="_blank">Curriculum Vitae</a> (last updated: August 2023)</strong>
+<strong><a href="https://drive.google.com/file/d/1tkf5ckuKsHb5hIIxmtRIO5_35cv4Ox4U/view?usp=sharing" target="_blank">Curriculum Vitae</a> (last updated: September 2023)</strong>
 
 <!-- <br/>
 
