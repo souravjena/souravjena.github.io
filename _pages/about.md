@@ -86,11 +86,9 @@ function topFunction() {
 
 # About Me
 
-Hi! I am a graduate student at the University of Washington, Seattle, majoring in Electrical and Computer Engineering. My primary interest lies in low-level and high-level software, and I have five years of professional work experience in firmware development.
+Hello there! Thank you so much for taking the time to visit my website, it means a lot to me! I'm a software engineer who has been fortunate enough to work for some well-known companies in the tech industry, like Apple and Tesla. I've also had the opportunity to work on embedded systems in India, which was a great learning experience for me. My focus is primarily on systems programming and embedded systems, and I've been lucky enough to work on some interesting projects in those areas. I'm constantly learning and trying to improve my skills, and I love the challenge that comes with software development. If you're interested in checking out some of my work, you can take a look at my portfolio. If you have any questions or just want to chat, feel free to send me an email.
 
-Currently, I'm seeking full-time firmware/software engineering opportunities in the US. If you think I'm a good fit, kindly contact me via email (<code class="highlighter-rouge">sjena94 at uw dot edu </code>).
-
-How to pronounce my name?
+<b>How to pronounce my name?</b>
 <audio controls>
 
   <source src="audio/robot.mp3" type="audio/mpeg">
@@ -108,7 +106,7 @@ t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
 <br/> -->
 
 <br/>
-<strong><a href="https://drive.google.com/file/d/1wYLskop5OqqyRbLXd-7XvoaRsyYzhfM6/view?usp=sharing" target="_blank">Curriculum Vitae</a> (last updated: February 2022)</strong>
+<strong><a href="https://drive.google.com/file/d/1AneZlVDZODQSGOFXCBjj6id2wPG82bto/view" target="_blank">Curriculum Vitae</a> (last updated: August 2023)</strong>
 
 <!-- <br/>
 
@@ -155,6 +153,179 @@ application in the flash, based on the status of a GPIO pin.
  -->
 <br/>
 
+
+
+
+<!-- ____________________________________________________________ -->
+<!-- ____________________________________________________________ -->
+
+# Experience (USA)
+
+<table style="width:100%">
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/apple.png" alt="apple-Logo"> <br/><br/> <b>Apple</b> <br/>  San Diego, CA <br/> <br/><b>Aug. 23 - Present </b><br/> Software Engineer </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Contributing to iPhone system software development, with a focus on performance enhancements and resource optimization.
+			</li>
+			<li>
+			Collaborating with diverse teams to implement essential features and improve system functionality.
+			</li>
+			<li>
+			Conducting comprehensive analysis and debugging to address system-level challenges and enhance overall stability.
+			</li>
+      		<li>
+			Staying informed about evolving development tools and technologies to support ongoing system software improvements for iPhones.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/tesla.png" alt="tesla-Logo"> <br/><br/> <b>Tesla</b> <br/>  Palo Alto, CA <br/> <br/><b>Jun. 22 - Mar. 23</b> <br/> Autopilot Firmware Intern </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Developed real-time embedded C code for ECUs across Model 3, Y, and Cybertruck platforms.
+			</li>
+			<li>
+			Collaborated with DSP team to rectify firmware bugs in Autopilot sensor's DSP applications.
+			</li>
+			<li>
+			Optimized python Hardware-in-Loop (HIL) testing scripts, boosting Autopilot sensor reliability with added features and protobuf-based communication.
+			</li>
+      <li>
+			Enhanced UDS routines and CAN message protocols, optimizing inter-ECU communication.
+			</li>
+      <li>
+			Debugged embedded software meticulously via RTOS traces, JTAG debugger, and CAN signals.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+</table>
+
+<br/>
+
+
+  <!-- <tr>
+    <td style="width: 30%;" align="center"><img width="70px" height="70px" src="{{site.baseurl}}/_pages/logos/tmobile.png" alt="tmobile-Logo"> <br/> <b>T-Mobile</b> <br/>Seattle, WA <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>Jan. 22 - Jun. 22</b> 
+    	<br/> Capstone Project Member, 
+    	<br/> UW ENGINE
+    </td>
+  </tr> -->
+
+# Experience (India)
+
+<table style="width:100%">
+
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-bombay.png" alt="IITB-Logo"> <br/><br/> <b>IIT Bombay</b> <br/>Mumbai, India <br/><br/> <b>Jan. 19 - Aug. 21</b> <br/> Senior Project Technical Assistant, ERTS Lab, CSE Department </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Oversaw software and firmware aspects of a pivotal development board crucial for CS684 at IIT Bombay and eY Robotics Competition, engaged by 364 participants.
+			</li>
+			<li>
+			Designed an ESP32 OTA application, facilitating Wireless AP setup, file serving, and OTA firmware updates for the embedded ATmega2560 and ESP32 microcontrollers on this developmental board.
+			</li>
+			<li>
+			Adapted ESP32's bootloader and partition table to ensure effortless OTA/user application transition, dynamically governed by real-time GPIO pin status on this development board.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/csir-nio.png" alt="NIO-Logo"> <br/><br/> <b>CSIR - National Institute of Oceanography</b> <br/>Panaji, India <br/><br/> <b>Jun. 18 - Jan. 19</b> <br/> Project Assistant II </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Played an integral role in the development of firmware for data acquisition systems.
+			</li>
+			<li>
+			Specifically focused on the TS-7260 platform, utilizing its powerful ARM9 architecture.
+			</li>
+			<li>
+			Authored Python scripts to streamline the data cleaning process, ensuring the integrity and quality of acquired data.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/numadic.png" alt="Numadic-Logo"> <br/><br/> <b>Numadic IoT</b> <br/>Mumbai, India <br/><br/> <b>Jul. 17 - May 18</b> <br/> Junior Firmware Developer <br/> <b>Feb. 17 - Jun. 17</b> <br/> Firmware Intern </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Extended Nubot v2 GPS tracker memory lifespan by 29% with a custom O(logN) data library for W25N01GV 1Gb NAND Flash Memory.
+			</li>
+			<li>
+			Developed efficient OTA firmware updates using C-based server and ESP32 client, optimizing communication via sockets.
+			</li>
+			<li>
+			Created Android app for wireless BLE debugging via GATT Client, streamlining troubleshooting processes.
+			</li>
+      <li>
+			Engineered Nubit firmware to enable real-time temperature plotting through an HTTP server and easy Wi-Fi data downloads.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo"> <br/><br/> <b>IIT Kanpur</b> <br/>Kanpur, India <br/><br/> <b>May 16 - Jul. 16</b>  <br/> Undergraduate Researcher, Summer Undergraduate Research and Excellence Program </td>
+    <td style="width: 60%;" align="left"> 
+    	<ul>
+			<li>
+			Developed HLMSoft utilizing C++ and the Qt Framework.
+			</li>
+			<li>
+			Integrated additive and subtractive manufacturing commands into a cohesive G-Code file.
+			</li>
+			<li>
+			Enabled CNC machine control over milling and welding units.
+			</li>
+      <li>
+			Enhanced hybrid layered manufacturing by linking different processes through software innovation.
+			</li>
+		</ul>
+    </td>
+  </tr>
+
+  <!-- <tr>
+    <td style="width: 30%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/ongc.jpg" alt="ONGC-Logo"> <br/><br/> <b>Oil and Natural Gas Corporation</b> <br/>Vadodara, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>May 15 - Jun. 15</b> 
+    	<br/> Summer Intern, 
+    	<br/> Regional Electronics Lab, Vadodara
+    	<br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 30%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/wosca.png" alt="WOSCA-Logo"> <br/><br/> <b>Women's Organisation for <br/> Socio-Cultural Awareness</b> <br/>Keonjhar, India <br/></td>
+    <td style="width: 30%;" align="center"> 
+    	<b>May 14 - Jul. 14</b>, 
+    	<br/><b>Dec 14 - Jan. 15</b>, 
+    	<br/><b>Dec 15 - Jan. 16</b>, 
+    	<br/> Volunteer Teacher <br/>
+    </td>
+  </tr> -->
+
+</table>
+
+<br/>
+
 <!-- ____________________________________________________________ -->
 <!-- ____________________________________________________________ -->
 
@@ -163,24 +334,25 @@ application in the flash, based on the status of a GPIO pin.
 <table style="width:100%">
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/uw.png" alt="UW-Logo"> <br/> <b>University of Washington  <br/> Seattle</b> <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Sep. 21 - Dec. 22</b>
-		<br/> MS ECE
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/uw.png" alt="UW-Logo"> <br/><br/> <b>University of Washington  <br/> Seattle</b> <br/></td>
+    <td style="width: 60%;" align="center"> 
+    	<b>Sep. 21 - Jun. 23</b>
+		<br/><br/> MS EE
     	<br/> Department of Electrical and Computer Engineering 
-    	<br/> <b>GPA: 4.0/4.0</b>
-    	<!-- <br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
-    	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a> -->
+    	<br/><br/> <b>GPA: 4.0/4.0</b>
+      <br/>
+    	<br/> <a href="https://drive.google.com/file/d/1yu0JtszA447C14MTyJ5ONq7mmQ3Jn6Qt/view?usp=sharing"  target="_blank">Degree</a>
+    	&emsp;<a href="https://drive.google.com/file/d/1KjCQXfMMOO0U-mAM5MHSnDOzTrarhco0/view?usp=sharing"  target="_blank">Transcript</a>
     </td>
   </tr>
 
   <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/bit-mesra.jpg" alt="BIT-Logo"> <br/> <b>Birla Institute of Technology <br/> Mesra</b> <br/></td>
-    <td style="width: 30%;" align="center"> 
+    <td style="width: 40%;" align="center"><br/><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/bit-mesra.jpg" alt="BIT-Logo"> <br/><br/> <b>Birla Institute of Technology <br/> Mesra</b> <br/></td>
+    <td style="width: 60%;" align="center"> 
     	<b>Aug. 13 - Jun. 17</b>
-		<br/> BE ECE 
+		<br/><br/> BE ECE 
     	<br/> Department of Electronics and Communication 
-    	<br/> <b>CGPA: 8.07/10.00</b> <br/> (First Class with Distinction) 
+    	<br/><br/> <b>CGPA: 8.07/10.00</b> <br/> (First Class with Distinction) 
     	<br/> <a href="https://drive.google.com/file/d/17GNP998P4cYmE27QAbyp5UAo8KkBX3Uw/view?usp=sharing"  target="_blank">Degree</a>
     	&emsp;<a href="https://drive.google.com/file/d/1pDvEFoeXen2UTtuZxRjV01oSdienWoaf/view?usp=sharing"  target="_blank">Transcript</a>
     </td>
@@ -189,96 +361,6 @@ application in the flash, based on the status of a GPIO pin.
 </table>
 
 <br/>
-
-
-<!-- ____________________________________________________________ -->
-<!-- ____________________________________________________________ -->
-
-
-# Experience
-
-<table style="width:100%">
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/tesla.png" alt="tesla-Logo"> <br/>  Palo Alto, CA <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jun. 22 - Dec. 22</b> 
-    	<br/> Autopilot Firmware Intern
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="70px" height="70px" src="{{site.baseurl}}/_pages/logos/tmobile.png" alt="tmobile-Logo"> <br/> <b>T-Mobile</b> <br/>Seattle, WA <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jan. 22 - Jun. 22</b> 
-    	<br/> Capstone Project Member, 
-    	<br/> UW ENGINE
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-bombay.png" alt="IITB-Logo"> <br/> <b>IIT Bombay</b> <br/>Mumbai, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jan. 19 - Present</b> 
-    	<br/> Senior Project Technical Assistant, 
-    	<br/> Embedded Real-Time Systems Lab,
-    	<br/> Computer Science and Engineering Department
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/csir-nio.png" alt="NIO-Logo"> <br/> <b>CSIR <br/> National Institute of Oceanography</b> <br/>Panajim, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>Jun. 18 - Jan. 19</b> 
-    	<br/> Project Assistant II, 
-    	<br/> Automonous Weather Station Lab,
-    	<br/> Marine Instrumentation and Computer Department 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/numadic.png" alt="Numadic-Logo"> <br/> <b>Numadic IoT</b> <br/>Mumbai, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b> Feb. 17 - May 18 </b>
-    	<br/> Feb. 17 - Jun. 17, Firmware Intern 
-    	<br/> Jul. 17 - May 18, Junior Firmware Developer 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/iit-kanpur.jpg" alt="IITK-Logo"> <br/> <b>IIT Kanpur</b> <br/>Kanpur, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 16 - Jul. 16</b> 
-    	<br/> Undergraduate Researcher, 
-    	<br/> Summer Undergraduate Research and Excellence Program,
-    	<br/> Mechanical Engineering Department 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/ongc.jpg" alt="ONGC-Logo"> <br/> <b>Oil and Natural Gas Corporation</b> <br/>Vadodara, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 15 - Jun. 15</b> 
-    	<br/> Summer Intern, 
-    	<br/> Regional Electronics Lab, Vadodara
-    	<br/> 
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/logos/wosca.png" alt="WOSCA-Logo"> <br/> <b>Women's Organisation for <br/> Socio-Cultural Awareness</b> <br/>Keonjhar, India <br/></td>
-    <td style="width: 30%;" align="center"> 
-    	<b>May 14 - Jul. 14</b>, 
-    	<br/><b>Dec 14 - Jan. 15</b>, 
-    	<br/><b>Dec 15 - Jan. 16</b>, 
-    	<br/> Volunteer Teacher <br/>
-    </td>
-  </tr>
-
-</table>
-
-<br/>
-
 
 <!-- ____________________________________________________________ -->
 <!-- ____________________________________________________________ -->
@@ -291,7 +373,7 @@ application in the flash, based on the status of a GPIO pin.
 <table style="width:100%">
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eyfi.png" alt="UW-Logo"> <br/> <br/> 
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eyfi.png" alt="UW-Logo"> <br/> <br/> 
 	<b> eYFi-Mega Development Board </b> <br/> 
 	Patent Pending <br/>(<a style="font-size:0.8em;" href="https://drive.google.com/file/d/1Zu8DRXQV6ZWR5S5kxHddBm599YaU18YV/view?usp=sharing"  target="_blank">IN 202121023159</a>)<br/>
 	IIT Bombay <br/>
@@ -314,7 +396,7 @@ application in the flash, based on the status of a GPIO pin.
   </tr>
 
   <tr>
-  	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/nubot.png" alt="UW-Logo"> <br/> <br/> 
+  	<td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/nubot.png" alt="UW-Logo"> <br/> <br/> 
 	<b> Nubot GPS Tracker </b> <br/> 
 	Numadic <br/>
 	<!-- <a href="https://products.e-yantra.org/eyfi-mega/"  target="_blank">Product Page</a> -->
@@ -336,7 +418,7 @@ application in the flash, based on the status of a GPIO pin.
   </tr>
 
   <tr>
-  	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/nubit.png" alt="UW-Logo"> <br/> 
+  	<td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/nubit.png" alt="UW-Logo"> <br/> 
 	<b> Nubit Temperature Logger </b> <br/> 
 	Numadic <br/>
 	<!-- <a href="https://products.e-yantra.org/eyfi-mega/"  target="_blank">Product Page</a> -->
@@ -361,7 +443,7 @@ application in the flash, based on the status of a GPIO pin.
 
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/huyskymaps.png" alt="UW-Logo"> <br/> 
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/huyskymaps.png" alt="UW-Logo"> <br/> 
 	<b> HuskyMaps </b> <br/> 
 	University of Washington <br/>
 	Course Project <br/>
@@ -378,7 +460,7 @@ application in the flash, based on the status of a GPIO pin.
 
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/snake.png" alt="UW-Logo"> <br/>
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/snake.png" alt="UW-Logo"> <br/>
 	<b> Snakes Game </b> <br/>
 	Personal Project <br/>
 	<a href="https://souravjena.github.io/snake_game/"  target="_blank">Play!</a>
@@ -400,7 +482,7 @@ application in the flash, based on the status of a GPIO pin.
 <table style="width:100%">
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/tmobile.png" alt="UW-Logo"> <br/> 
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/tmobile.png" alt="UW-Logo"> <br/> 
 	<b> 5G Home Internet QoS Prediction App </b> <br/> 
 	T-Mobile <br/>
 	Ongoing Project <br/>
@@ -425,7 +507,7 @@ application in the flash, based on the status of a GPIO pin.
 
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eyantra.png" alt="UW-Logo"> <br/> 
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eyantra.png" alt="UW-Logo"> <br/> 
 	<b> eY IoT Framework </b> <br/> 
 	IIT Bombay <br/>
 	<a href="https://e-yantra-r3.github.io/ey-iot-framework/"  target="_blank">Documentation</a> <br/>
@@ -439,7 +521,7 @@ application in the flash, based on the status of a GPIO pin.
     </td>
 	</tr>
 	<tr>
-	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eysim.png" alt="UW-Logo"> <br/> 
+	<td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/eysim.png" alt="UW-Logo"> <br/> 
 	<b> eY IoT Circuit Simulator </b> <br/> 
 	IIT Bombay <br/>
 	<a href="https://www.youtube.com/embed/iXrWR6PEd-E"  target="_blank">Video</a> <br/>
@@ -456,7 +538,7 @@ application in the flash, based on the status of a GPIO pin.
     </td>
   </tr>
 	<tr>
-	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/arduino.png" alt="UW-Logo"> <br/> 
+	<td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/arduino.png" alt="UW-Logo"> <br/> 
 	<b> Arduino <br/> (For eYFi-Mega) </b> <br/> 
 	IIT Bombay <br/>
 	<a href="https://www.youtube.com/embed/XiOXn4fECPA"  target="_blank">Video</a> <br/>
@@ -471,7 +553,7 @@ eYFi-Mega (ESP32 and ATMega2560) via Arduino IDE.
     </td>
   </tr>
 	<tr>
-	<td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/hlmsoft.png" alt="UW-Logo"> <br/> 
+	<td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/hlmsoft.png" alt="UW-Logo"> <br/> 
 	<b> HLMSoft </b> <br/>
 	IIT Kanpur <br/>
 	<a href="https://drive.google.com/file/d/10GQhUYejyLO33X-e44WHkGzVVf4vWjAe/view"  target="_blank">Report</a> <br/>
@@ -493,7 +575,7 @@ manufacturing.
 <table style="width:100%">
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/vargibots.png" alt="UW-Logo"> <br/> <br/>
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/vargibots.png" alt="UW-Logo"> <br/> <br/>
 	<b> Vargi-Bots </b> <br/> 
 	IIT Bombay <br/>
 	Accepted in IEEE EDUCON 2022 <br/>
@@ -519,7 +601,7 @@ manufacturing.
 
   </tr>
   <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/micromouse.png" alt="UW-Logo"> <br/>
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/micromouse.png" alt="UW-Logo"> <br/>
 	<b> International Micromouse Challenge</b> <br/> 
 	Techfest 19-2020 & 20-2021, IIT Bombay <br/>
 	<a href="https://drive.google.com/file/d/1N10GsUFk6qPmNsMxOwZvo-TO3amay-sx/view"  target="_blank">Certificate</a> <br/>
@@ -542,7 +624,7 @@ manufacturing.
   </tr>
 
   <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/rr.png" alt="UW-Logo"> <br/>
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/rr.png" alt="UW-Logo"> <br/>
 	<b> Rapid Rescuer </b> <br/> 
 	IIT Bombay <br/>
 	<a href="https://ieeexplore.ieee.org/document/9453995"  target="_blank">IEEE Paper</a> <br/>
@@ -567,7 +649,7 @@ students through Task Based Training.
 <table style="width:100%">
 
 <tr>
-    <td style="width: 30%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/gymbo.png" alt="UW-Logo"> <br/> 
+    <td style="width: 40%;" align="center"><img width="100px" height="100px" src="{{site.baseurl}}/_pages/projects/gymbo.png" alt="UW-Logo"> <br/> 
 	<b> GymBo </b> <br/> 
 	University of Washington <br/>
 	Course Project <br/>
